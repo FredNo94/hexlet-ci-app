@@ -1,5 +1,5 @@
 # file: .github/workflows/run-install-and-test.yml
-name: srun-install-and-test
+name: run-install-and-test
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
